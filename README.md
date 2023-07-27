@@ -4,4 +4,5 @@ A REPOSITORY CONTAINING MULTIPLE PYTHON CODES FOR FUN GAMES USING JUPYTER NOTEBO
 2. TREASURE HUNT
 3. TIC-TAC-TOE
 4. BlackJack
-5. Rock,Paper and Scissors 
+5. Rock,Paper and Scissors
+6. Dice Roll Simulator
